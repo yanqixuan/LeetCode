@@ -13,4 +13,6 @@
   封装成class export default
 ## webpack 看见效果
 
-webpack webpack-cli -dev-server -html-plugin -D
+链表分割，小于的节点放左边，大于的放后面，不影响之前的顺序
+1->2->2 左链表
+3->4->5 右链表
